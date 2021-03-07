@@ -1,0 +1,12 @@
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csprojAssemblyReference.cache
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+D:\Projects\2020-Sept-Season\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb
